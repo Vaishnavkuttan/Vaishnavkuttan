@@ -1,9 +1,67 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vaishnav+👋;Senior+QA+%26+Automation+Engineer;Building+Zero-Defect+Systems;Guinness+World+Record+Holder+🏆" alt="Vaishnav Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vaishnav+👋;Senior+QA+%26+Automation+Engineer;Building+Zero-Defect+Systems;Guinness+World+Record+Holder+🏆" alt="Typing Animation"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&width=700&lines=QA+Architect+%7C+SDET+%7C+Test+Automation+Expert;Crafting+Scalable+Test+Infrastructure;Transforming+Release+Cycles+into+Zero-Defect+Deployments" alt="Professional subtitle animation"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+    <defs>
+      <style>
+        @keyframes rotateText {
+          0% {
+            opacity: 0;
+            transform: translateY(30px) rotateX(90deg);
+          }
+          8% {
+            opacity: 1;
+            transform: translateY(0) rotateX(0deg);
+          }
+          32% {
+            opacity: 1;
+            transform: translateY(0) rotateX(0deg);
+          }
+          40% {
+            opacity: 0;
+            transform: translateY(-30px) rotateX(-90deg);
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+
+        .rotating-title {
+          font-family: 'Courier New', monospace;
+          font-size: 22px;
+          font-weight: bold;
+          fill: #FF6B9D;
+          text-anchor: middle;
+          filter: drop-shadow(0 0 15px rgba(255, 107, 157, 0.7));
+        }
+
+        .role-1 {
+          animation: rotateText 12s infinite;
+          animation-delay: 0s;
+        }
+
+        .role-2 {
+          animation: rotateText 12s infinite;
+          animation-delay: 4s;
+        }
+
+        .role-3 {
+          animation: rotateText 12s infinite;
+          animation-delay: 8s;
+        }
+      </style>
+    </defs>
+    
+    <text x="400" y="50" class="rotating-title role-1">QA Architect</text>
+    <text x="400" y="50" class="rotating-title role-2">SDET Expert</text>
+    <text x="400" y="50" class="rotating-title role-3">Test Automation Master</text>
+  </svg>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=4000&pause=1500&color=00FF88&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Test+Infrastructure;Transforming+Release+Cycles+into+Zero-Defect+Deployments;Building+AI-Powered+QA+Solutions" alt="Subtitle animation"/>
 </p>
 
 <p align="center">
@@ -104,7 +162,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Copilot"/></a>
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁�� Cloud & DevOps
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Jenkins+%7C+AWS+%7C+Docker+%7C+Git+%7C+GitHub+%7C+Linux" alt="DevOps tools"/>
 
 <p align="center">
@@ -302,5 +360,5 @@ I'm always interested in discussing:
 </p>
 
 <p align="center">
-  <sub>Last Updated: 2026 | Enhanced with dynamic text animations 🚀</sub>
+  <sub>Last Updated: 2026 | Enhanced with rotating text animations 🚀</sub>
 </p>
