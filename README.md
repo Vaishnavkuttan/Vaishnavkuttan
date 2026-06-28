@@ -180,7 +180,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🔗 **Managed defect lifecycle in JIRA** from discovery through Go-Live sign-off — maintaining zero high-priority bugs at release
 - 📊 **Collaborated with developers and product teams** to validate complex business logic and edge cases
 
-### <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idWZShVpnT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />  Sutherland Global Services —  <img width="30" height="30" alt="image" src="https://cdn.brandfetch.io/idH5BG-vMg/w/160/h/160/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" /> Tech Support Engineer *(2017 – 2019)*
+### <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idWZShVpnT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />  Sutherland Global Services —  <img width="30" height="30" alt="image" src="https://cdn.brandfetch.io/idH5BG-vMg/w/160/h/160/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"/> Tech Support Engineer *(2017 – 2019)*
 
 
 **Role:** Tech Support / Quality Analyst  
