@@ -35,9 +35,9 @@
 
 ## 🚀 Who Am I?
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=I+don't+just+find+bugs+—+I+build+systems+that+find+them+for+me.;Quality+is+a+feature,+not+an+afterthought." alt="Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=I+don't+just+find+bugs+%E2%80%94+I+build+systems+that+find+them+for+me%3B;Quality+is+a+feature%2C+not+an+afterthought." alt="Philosophy"/>
 
-I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turning chaotic release cycles into smooth, zero-defect deployments. I architect hybrid automation frameworks, lead QA teams, and pioneer the integration of Gen AI into quality assurance workflows.
+I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turning chaotic release cycles into smooth, zero-defect deployments. I architect hybrid automation frameworks, lead QA teams, and pioneer the integration of Gen AI into testing workflows.
 
 **My Core Philosophy:** Quality is a feature, not an afterthought. I believe in building scalable, maintainable test infrastructure that enables teams to ship with confidence.
 
@@ -158,7 +158,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 **Technologies:** Selenium, Java, TestNG, AWS, BrowserStack, JIRA, Qmetry
 
 **Achievements:**
-- 🏗️ **Architected and maintained a Hybrid Automation Framework** (Selenium + Java + TestNG + POM/Page Factory) from scratch — delivering 40% increase in test reusability and slashing maintenance overhead by 35%
+- 🏗️ **Architected and maintained a Hybrid Automation Framework** (Selenium + Java + TestNG + POM/Page Factory) from scratch — delivering 40% increase in test reusability and slashing maintenance overhead by 30%
 - ⚡ **Drove Parallel Test Execution** using TestNG, reducing regression cycle time from 8 hours → 2 hours (75% reduction) — enabling faster Agile sprints
 - 🔄 **Validated real-time data sync** between front-end and **AWS S3** backends — ensuring data consistency across delivery workflows
 - 📱 **Led cross-platform testing** across iOS, Android & multiple browsers via **BrowserStack** — ensuring 99.9% consistency across 50+ device/browser combinations
