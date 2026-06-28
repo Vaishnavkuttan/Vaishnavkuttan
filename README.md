@@ -277,7 +277,7 @@ I'm always interested in discussing:
 |---|---|
 | 💼 LinkedIn | [vaishnav-kalaikumar](https://www.linkedin.com/in/vaishnav-kalaikumar) |
 | 📧 Email | [vaishnavkuttan96@gmail.com](mailto:vaishnavkuttan96@gmail.com) |
-| 🐙 GitHub | [Vaishnavkuttan](https://github.com/Vaishnavkuttan) |
+| 💻 GitHub | [Vaishnavkuttan](https://github.com/Vaishnavkuttan) |
 | 🌐 Portfolio | [Vaishnav Kalaikumar](https://vaishnavkuttan.github.io/Vaishnavk.github.io/) |
 | 🏅 Credly | [View Badges](https://www.credly.com/users/vaishnav-kalaikumar/badges/credly) |
 
