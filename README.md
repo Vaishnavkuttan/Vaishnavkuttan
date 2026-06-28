@@ -35,7 +35,7 @@
 
 ## 🚀 Who Am I?
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=16&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=I+don%27t+just+find+bugs+%E2%80%94+I+build+systems+that+find+them+for+me.;Quality+is+a+feature,+not+an+afterthought." alt="Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=I+don't+just+find+bugs+—+I+build+systems+that+find+them+for+me.;Quality+is+a+feature,+not+an+afterthought." alt="Philosophy"/>
 
 I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turning chaotic release cycles into smooth, zero-defect deployments. I architect hybrid automation frameworks, lead QA teams, and pioneer the integration of Gen AI into quality assurance workflows.
 
