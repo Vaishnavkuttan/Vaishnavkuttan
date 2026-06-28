@@ -151,48 +151,55 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ### ⚡ Automation & Testing
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Postman+%7C+Rest+Assured+%7C+Playwright" alt="Testing frameworks"/>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Rest%20Assured-43B02A?style=flat-square&logo=java&logoColor=white" height="48" alt="Rest Assured"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Copilot"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" style="animation: spin 4s linear infinite; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" style="animation: spin 5s linear infinite 0.5s; display: inline-block;"/>
+  <img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG" style="animation: spin 4.5s linear infinite 1s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" style="animation: spin 5.5s linear infinite 1.5s; display: inline-block;"/>
+  <img src="https://img.shields.io/badge/-Rest%20Assured-43B02A?style=flat-square&logo=java&logoColor=white" height="48" alt="Rest Assured" style="animation: spin 4.2s linear infinite 0.7s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" style="animation: spin 5.2s linear infinite 1.2s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" style="animation: spin 4.8s linear infinite 0.3s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Copilot" style="animation: spin 5.5s linear infinite 1s; display: inline-block;"/>
 </p>
 
-### ☁�� Cloud & DevOps
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
+### ☁️ Cloud & DevOps
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Jenkins+%7C+AWS+%7C+Docker+%7C+Git+%7C+GitHub+%7C+Linux" alt="DevOps tools"/>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" style="animation: spin 4.3s linear infinite 0.6s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" style="animation: spin 5.1s linear infinite 1.1s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" style="animation: spin 4.6s linear infinite 0.8s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" style="animation: spin 5.3s linear infinite 1.3s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" style="animation: spin 4.9s linear infinite 0.4s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" style="animation: spin 5.4s linear infinite 1.4s; display: inline-block;"/>
 </p>
 
 ### 🧰 Tools & Platforms
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=JIRA+%7C+BrowserStack+%7C+IntelliJ+IDEA+%7C+Qmetry" alt="Testing tools"/>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="JIRA"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white" height="48" alt="BrowserStack"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Qmetry-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="Qmetry"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="JIRA" style="animation: spin 4.4s linear infinite 0.9s; display: inline-block;"/>
+  <img src="https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white" height="48" alt="BrowserStack" style="animation: spin 5s linear infinite 0.2s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" style="animation: spin 4.7s linear infinite 1.5s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" style="animation: spin 5.2s linear infinite 0.5s; display: inline-block;"/>
+  <img src="https://img.shields.io/badge/-Qmetry-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="Qmetry" style="animation: spin 4.5s linear infinite 1.2s; display: inline-block;"/>
 </p>
 
 ### 💻 Languages & Scripting
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+TypeScript+%7C+Bash" alt="Languages"/>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" style="animation: spin 4.8s linear infinite 0.3s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" style="animation: spin 5.3s linear infinite 1s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" style="animation: spin 4.6s linear infinite 0.7s; display: inline-block;"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script" style="animation: spin 5.1s linear infinite 1.4s; display: inline-block;"/>
 </p>
 
 ---
@@ -360,5 +367,5 @@ I'm always interested in discussing:
 </p>
 
 <p align="center">
-  <sub>Last Updated: 2026 | Enhanced with rotating text animations 🚀</sub>
+  <sub>Last Updated: 2026 | Enhanced with rotating logo loop animations 🚀</sub>
 </p>
