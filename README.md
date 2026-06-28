@@ -20,6 +20,21 @@
   </a>
 </p>
 
+<p align="center">
+  <svg width="500" height="40" viewBox="0 0 500 40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradientText" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00D9FF" />
+        <stop offset="50%" stop-color="#00FF88" />
+        <stop offset="100%" stop-color="#FF5722" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" font-family="'Fira Code', monospace" font-size="20" font-weight="600" fill="url(#gradientText)" text-anchor="middle">
+      Senior QA / Automation Engineer
+    </text>
+  </svg>
+</p>
+
 ---
 
 ## 🎯 Quick Navigation
