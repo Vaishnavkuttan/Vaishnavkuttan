@@ -40,23 +40,32 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ## 🏅 Credly Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/d092a48c-f6b6-48a4-a134-85c3adf096e0" target="_blank">
-    <img src="https://images.credly.com/images/83ece56a-e88e-44a4-8939-ebdbf83ef18a/linkedin_thumb_blob" width="150" alt="Vibe Code Hackathon - using GitHub Copilot"/>
-    <br/>
-    <sub><b>Vibe Code Hackathon</b></sub>
-    <br/>
-    <sub>using GitHub Copilot</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/3fe3a1c3-8fb7-4e5b-908e-ac487b08ff80" target="_blank">
-    <img src="https://images.credly.com/images/eac69c98-c276-4346-b67b-9ba4ca250f7c/linkedin_thumb_blob" width="150" alt="Context Engineering Foundation"/>
-    <br/>
-    <sub><b>Context Engineering Foundation</b></sub>
-    <br/>
-    <sub>Issued by Cognizant</sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/d092a48c-f6b6-48a4-a134-85c3adf096e0" target="_blank">
+        <img src="https://images.credly.com/images/83ece56a-e88e-44a4-8939-ebdbf83ef18a/linkedin_thumb_blob" width="130" alt="Vibe Code Hackathon"/>
+        <br/>
+        <b>Vibe Code Hackathon</b>
+        <br/>
+        <sub>using GitHub Copilot</sub>
+        <br/>
+        <sub>🏢 Issued by Cognizant</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/3fe3a1c3-8fb7-4e5b-908e-ac487b08ff80" target="_blank">
+        <img src="https://images.credly.com/images/eac69c98-c276-4346-b67b-9ba4ca250f7c/linkedin_thumb_blob" width="130" alt="Context Engineering Foundation"/>
+        <br/>
+        <b>Context Engineering Foundation</b>
+        <br/>
+        <sub>AI & RAG Fundamentals</sub>
+        <br/>
+        <sub>🏢 Issued by Cognizant</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
