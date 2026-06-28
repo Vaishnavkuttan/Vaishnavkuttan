@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Vaishnav+%F0%9F%91%8B;QA+Engineer+%7C+SDET+in+progress;Automation+Architect;Guinness+World+Record+Holder!" alt="Vaishnav's Profile"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Vaishnav+👋;Senior+QA+%26+Automation+Engineer;Building+Zero-Defect+Systems;Guinness+World+Record+Holder+🏆" alt="Vaishnav Typing Animation"/>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1500&color=FF6B9D&center=true&vCenter=true&width=700&lines=QA+Architect+%7C+SDET+%7C+Test+Automation+Expert;Crafting+Scalable+Test+Infrastructure;Transforming+Release+Cycles+into+Zero-Defect+Deployments" alt="Professional subtitle animation"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnav-kalaikumar">
@@ -22,7 +26,7 @@
 
 ---
 
-## 📑 Quick Navigation
+## 🎯 Quick Navigation
 - [Who Am I?](#-who-am-i)
 - [Credly Badges](#-credly-badges)
 - [Tech Arsenal](#️-tech-arsenal)
@@ -35,9 +39,9 @@
 
 ## 🚀 Who Am I?
 
-> *"I don't just find bugs — I build systems that find them for me."*
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=I+don't+just+find+bugs+—+I+build+systems+that+find+them+for+me.;Quality+is+a+feature,+not+an+afterthought." alt="Philosophy"/>
 
-I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turning chaotic release cycles into smooth, zero-defect deployments. I architect hybrid automation frameworks, lead QA teams and champion quality engineering excellence through strategic automation and data-driven decision-making.
+I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turning chaotic release cycles into smooth, zero-defect deployments. I architect hybrid automation frameworks, lead QA teams, and pioneer the integration of Gen AI into quality assurance workflows.
 
 **My Core Philosophy:** Quality is a feature, not an afterthought. I believe in building scalable, maintainable test infrastructure that enables teams to ship with confidence.
 
@@ -87,9 +91,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ## 🛠️ Tech Arsenal
 
 ### ⚡ Automation & Testing
-**Frameworks & Tools:** Selenium, Java, TestNG, Postman, Rest Assured, Playwright, Maven, GitHub Copilot
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Postman+%7C+Rest+Assured+%7C+Playwright" alt="Testing frameworks"/>
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG"/></a>
@@ -101,9 +105,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 </p>
 
 ### ☁️ Cloud & DevOps
-**Infrastructure & Deployment:** Jenkins, AWS, Docker, Git, GitHub, Linux
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Jenkins+%7C+AWS+%7C+Docker+%7C+Git+%7C+GitHub+%7C+Linux" alt="DevOps tools"/>
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
@@ -113,9 +117,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 </p>
 
 ### 🧰 Tools & Platforms
-**Test Management & Analysis:** JIRA, BrowserStack, IntelliJ IDEA, Eclipse, Qmetry
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=JIRA+%7C+BrowserStack+%7C+IntelliJ+IDEA+%7C+Qmetry" alt="Testing tools"/>
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="JIRA"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white" height="48" alt="BrowserStack"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>
@@ -124,9 +128,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 </p>
 
 ### 💻 Languages & Scripting
-**Core Competencies:** Java, JavaScript, TypeScript, Shell Script/Bash
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+TypeScript+%7C+Bash" alt="Languages"/>
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
@@ -151,12 +155,14 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ## 💼 What I've Built
 
 ### 🌮 Taco Bell — Delivery Aggregator QA *(Cognizant | 2021 – Present)*
-**Role:** Senior QA Engineer / Automation Architect  
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=FFB800&center=true&vCenter=true&width=700&lines=Senior+QA+Engineer+%7C+Automation+Architect;Selenium+%7C+Java+%7C+TestNG+%7C+AWS+%7C+BrowserStack" alt="Taco Bell role"/>
+
 **Team Size:** Cross-functional QA team  
 **Technologies:** Selenium, Java, TestNG, AWS, BrowserStack, JIRA, Qmetry
 
 **Achievements:**
-- 🏗️ **Architected and maintained a Hybrid Automation Framework** (Selenium + Java + TestNG + POM/Page Factory) from scratch — delivering 40% increase in test reusability and slashing maintenance effort by 50%
+- 🏗️ **Architected and maintained a Hybrid Automation Framework** (Selenium + Java + TestNG + POM/Page Factory) from scratch — delivering 40% increase in test reusability and slashing maintenance overhead by 35%
 - ⚡ **Drove Parallel Test Execution** using TestNG, reducing regression cycle time from 8 hours → 2 hours (75% reduction) — enabling faster Agile sprints
 - 🔄 **Validated real-time data sync** between front-end and **AWS S3** backends — ensuring data consistency across delivery workflows
 - 📱 **Led cross-platform testing** across iOS, Android & multiple browsers via **BrowserStack** — ensuring 99.9% consistency across 50+ device/browser combinations
@@ -165,6 +171,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🤖 **Pioneered GitHub Copilot** integration into QA workflows — improving test script generation speed by 45%
 
 ### 🧪 HCL — Test Analyst *(2020 – 2021)*
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=QA+Test+Analyst;Full-cycle+Black-box+Testing+%7C+Test+Case+Design" alt="HCL role"/>
+
 **Role:** QA Test Analyst  
 **Domain:** Full-cycle Quality Assurance  
 **Technologies:** JIRA, Manual Testing, Test Case Design
@@ -176,6 +185,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 📊 **Collaborated with developers and product teams** to validate complex business logic and edge cases
 
 ### 📚 Sutherland Global Services — Tech Support Engineer *(2017 – 2019)*
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=700&lines=Tech+Support+Engineer+%7C+Quality+Analyst;Amazon+Kindle+Testing+%7C+SOP+Documentation" alt="Sutherland role"/>
+
 **Role:** Tech Support / Quality Analyst  
 **Technologies:** Manual Testing, SOP Documentation, Amazon Kindle  
 
@@ -187,6 +199,8 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ---
 
 ## 🏆 Achievements & Certifications
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🥇+Guinness+World+Record+Holder;🤖+Vibe+Code+Hackathon+Winner;🧠+Context+Engineering+Foundation;📜+Certified+in+Software+Testing" alt="Certifications animation"/>
 
 | | |
 |---|---|
@@ -207,7 +221,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   </a>
 </p>
 
-> **Explore my portfolio** for in-depth case studies, project walkthroughs, and real-world QA solutions I've implemented. You'll find detailed documentation of frameworks, automation strategies, and problem-solving approaches.
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Explore+in-depth+case+studies+%26+automation+strategies;Real-world+QA+solutions+%26+framework+implementations" alt="Portfolio description"/>
 
 **What you'll find:**
 - 📚 Detailed case studies from Taco Bell delivery QA work
@@ -219,6 +233,8 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ---
 
 ## 🎯 What's Next?
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=1500&color=00FF88&center=true&vCenter=true&width=700&lines=Actively+seeking+SDET+roles;Deepening+expertise+in+Performance+%26+Security+Testing;Exploring+Test+Infrastructure+as+Code;Open+to+collaboration+on+QA+frameworks" alt="Next steps animation"/>
 
 I'm constantly evolving in my QA and automation engineering journey:
 
@@ -255,6 +271,8 @@ I'm constantly evolving in my QA and automation engineering journey:
 
 ## 💬 Let's Connect!
 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=I'm+always+interested+in+discussing:;QA+automation+best+practices+%7C+Gen+AI+in+Testing;Test+infrastructure+architecture+%7C+Microservices+QA" alt="Connect animation"/>
+
 I'm always interested in discussing:
 - 🧪 QA automation best practices & design patterns
 - 🤖 Gen AI integration in software testing
@@ -280,9 +298,9 @@ I'm always interested in discussing:
 </p>
 
 <p align="center">
-  <i>⚡ "Quality is never an accident. It is always the result of intelligent effort." — John Ruskin</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=2000&color=FFD700&center=true&vCenter=true&width=750&lines=⚡+Quality+is+never+an+accident.+It+is+always+the+result+of+intelligent+effort.;—+John+Ruskin" alt="Inspiration quote animation"/>
 </p>
 
 <p align="center">
-  <sub>Last Updated: 2026 | All details preserved and enhanced for maximum impact 🚀</sub>
+  <sub>Last Updated: 2026 | Enhanced with dynamic text animations 🚀</sub>
 </p>
