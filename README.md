@@ -164,7 +164,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ## 💼 What I've Built
 
-### 🌮 Taco Bell — Delivery Aggregator QA *(Cognizant | 2021 – Present)*
+### Cognizant -🌮 Taco Bell — Delivery Aggregator QA *(2021 – Present)*
 
 
 
@@ -181,7 +181,8 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🔍 **Analysed Microservices logs** and performed POS & KDS Windows validation for QA environment stability — reducing environment-related test failures by 60%
 - 🤖 **Pioneered GitHub Copilot** integration into QA workflows — improving test script generation speed by 45%
 
-### 🧪 HCL — Test Analyst *(2020 – 2021)*
+### 🧪<img width="800" height="113" alt="image" src="https://github.com/user-attachments/assets/6155d804-73b6-4bac-ac3b-9da939aa56ce" />
+ HCL — Test Analyst *(2020 – 2021)*
 
 **Role:** QA Test Analyst  
 **Domain:** Full-cycle Quality Assurance  
