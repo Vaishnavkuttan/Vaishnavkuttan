@@ -72,35 +72,47 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ## 🛠️ Tech Arsenal
 
 ### ⚡ Automation & Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-43B02A?style=for-the-badge&logo=java&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Rest%20Assured-43B02A?style=flat-square&logo=java&logoColor=white" height="48" alt="Rest Assured"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Copilot"/></a>
+</p>
 
 ### ☁️ Cloud & DevOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
+</p>
 
 ### 🧰 Tools & Platforms
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="JIRA"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white" height="48" alt="BrowserStack"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Qmetry-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="Qmetry"/></a>
+</p>
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script"/></a>
+</p>
 ---
 
 ## 💼 What I've Built
