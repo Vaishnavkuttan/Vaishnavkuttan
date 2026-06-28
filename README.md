@@ -166,7 +166,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🔍 **Analysed Microservices logs** and performed POS & KDS Windows validation for QA environment stability — reducing environment-related test failures by 60%
 - 🤖 **Pioneered GitHub Copilot** integration into QA workflows — improving test script generation speed by 45%
 
-### <img width="48" height="15" alt="image" src="https://cdn.brandfetch.io/id7syi9haD/w/800/h/113/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" /> HCL — Test Analyst *(2020 – 2021)*
+### <img width="48" height="15" alt="image" src="https://cdn.brandfetch.io/id7syi9haD/w/800/h/113/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" /> HCL — <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/id-RGKzn_O/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Test Analyst *(2020 – 2021)*
 
 **Role:** QA Test Analyst  
 **Domain:** Full-cycle Quality Assurance  
