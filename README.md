@@ -63,7 +63,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - ☁️ Validated cloud data pipelines on **AWS (S3, EC2, SNS, Lambda, SQS)**
 - 📱 Cross-platform testing across iOS, Android & web via **BrowserStack**
 - 🚀 Levelling up in **REST Assured** & **Playwright (TypeScript)** — targeting SDET roles at product companies
-- 🎯 Specialized in **API Testing**, **Microservices QA**, and **Test Automation Strategy**
+- 🎯 Proficient in **API Testing**, **Microservices QA**, and **Test Automation Strategy**
 - 📍 Based in Chennai, Tamil Nadu, India
 
 ---
