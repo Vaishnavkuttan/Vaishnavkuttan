@@ -149,7 +149,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ## 💼 What I've Built
 
-### <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idzF9a2Y93/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Cognizant - <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idh336BtAD/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Taco Bell — Delivery Aggregator QA *(2021 – Present)*
+### <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idzF9a2Y93/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Cognizant - Taco Bell — Delivery Aggregator QA <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idh336BtAD/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> *(2021 – Present)*
 
 
 
@@ -166,7 +166,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🔍 **Analysed Microservices logs** and performed POS & KDS Windows validation for QA environment stability — reducing environment-related test failures by 60%
 - 🤖 **Pioneered GitHub Copilot** integration into QA workflows — improving test script generation speed by 45%
 
-### <img width="48" height="15" alt="image" src="https://cdn.brandfetch.io/id7syi9haD/w/800/h/113/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" /> HCL — <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/id-RGKzn_O/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Test Analyst *(2020 – 2021)*
+### <img width="48" height="15" alt="image" src="https://cdn.brandfetch.io/id7syi9haD/w/800/h/113/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" /> HCL — Test Analyst <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/id-RGKzn_O/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"/> *(2020 – 2021)*
 
 
 
@@ -180,7 +180,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 - 🔗 **Managed defect lifecycle in JIRA** from discovery through Go-Live sign-off — maintaining zero high-priority bugs at release
 - 📊 **Collaborated with developers and product teams** to validate complex business logic and edge cases
 
-### <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idWZShVpnT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />  Sutherland Global Services —  <img width="30" height="30" alt="image" src="https://cdn.brandfetch.io/idH5BG-vMg/w/160/h/160/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"/> Tech Support Engineer *(2017 – 2019)*
+### <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idWZShVpnT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" />  Sutherland Global Services — Tech Support Engineer <img width="30" height="30" alt="image" src="https://cdn.brandfetch.io/idH5BG-vMg/w/160/h/160/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"/> *(2017 – 2019)*
 
 
 **Role:** Tech Support / Quality Analyst  
