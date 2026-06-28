@@ -149,7 +149,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ## 💼 What I've Built
 
-### <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idzF9a2Y93/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Cognizant -🌮 <img width="18" height="18" alt="image" src="https://cdn.brandfetch.io/idh336BtAD/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Taco Bell — Delivery Aggregator QA *(2021 – Present)*
+### <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idzF9a2Y93/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Cognizant - <img width="20" height="20" alt="image" src="https://cdn.brandfetch.io/idh336BtAD/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" /> Taco Bell — Delivery Aggregator QA *(2021 – Present)*
 
 
 
