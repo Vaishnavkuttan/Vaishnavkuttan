@@ -87,59 +87,51 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ## 🛠️ Tech Arsenal
 
 ### ⚡ Automation & Testing
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Selenium+%7C+Java+%7C+TestNG+%7C+Postman+%7C+Rest+Assured+%7C+Playwright" alt="Testing frameworks"/>
+**Frameworks & Tools:** Selenium, Java, TestNG, Postman, Rest Assured, Playwright, Maven, GitHub Copilot
 
-<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" style="animation: spin 4s linear infinite; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" style="animation: spin 5s linear infinite 0.5s; display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG" style="animation: spin 4.5s linear infinite 1s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" style="animation: spin 5.5s linear infinite 1.5s; display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-Rest%20Assured-43B02A?style=flat-square&logo=java&logoColor=white" height="48" alt="Rest Assured" style="animation: spin 4.2s linear infinite 0.7s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" style="animation: spin 5.2s linear infinite 1.2s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" style="animation: spin 4.8s linear infinite 0.3s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Copilot" style="animation: spin 5.5s linear infinite 1s; display: inline-block;"/>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" height="48" alt="TestNG"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
+  <a href="#"><img src="https://rest-assured.io/img/logo-transparent.png" height="48" alt="Rest Assured"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/></a>
+  <a href="#"><img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Playwright"/></a>
+  <a href="#"><img src="https://cdn.brandfetch.io/idZAyF9rlg/w/800/h/800/theme/light/idfiw5HO9m.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="GitHub Copilot"/></a>
 </p>
 
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
-
 ### ☁️ Cloud & DevOps
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Jenkins+%7C+AWS+%7C+Docker+%7C+Git+%7C+GitHub+%7C+Linux" alt="DevOps tools"/>
+**Infrastructure & Deployment:** Jenkins, AWS, Docker, Git, GitHub, Linux
 
-<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" style="animation: spin 4.3s linear infinite 0.6s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" style="animation: spin 5.1s linear infinite 1.1s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" style="animation: spin 4.6s linear infinite 0.8s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" style="animation: spin 5.3s linear infinite 1.3s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" style="animation: spin 4.9s linear infinite 0.4s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" style="animation: spin 5.4s linear infinite 1.4s; display: inline-block;"/>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
 </p>
 
 ### 🧰 Tools & Platforms
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=JIRA+%7C+BrowserStack+%7C+IntelliJ+IDEA+%7C+Qmetry" alt="Testing tools"/>
+**Test Management & Analysis:** JIRA, BrowserStack, IntelliJ IDEA, Eclipse, Qmetry
 
-<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="JIRA" style="animation: spin 4.4s linear infinite 0.9s; display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white" height="48" alt="BrowserStack" style="animation: spin 5s linear infinite 0.2s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" style="animation: spin 4.7s linear infinite 1.5s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" style="animation: spin 5.2s linear infinite 0.5s; display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-Qmetry-0052CC?style=flat-square&logo=jira&logoColor=white" height="48" alt="Qmetry" style="animation: spin 4.5s linear infinite 1.2s; display: inline-block;"/>
+<p align="left">
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/browser-stack.png" alt="browser-stack"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
+  <a href="#"><img src="https://testmanagement.qmetry.com/assets/images/QTM.svg" width="118" height="38" alt="Qmetry"/></a>
 </p>
 
 ### 💻 Languages & Scripting
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+TypeScript+%7C+Bash" alt="Languages"/>
+**Core Competencies:** Java, JavaScript, TypeScript, Shell Script/Bash
 
-<p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" style="animation: spin 4.8s linear infinite 0.3s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" style="animation: spin 5.3s linear infinite 1s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" style="animation: spin 4.6s linear infinite 0.7s; display: inline-block;"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script" style="animation: spin 5.1s linear infinite 1.4s; display: inline-block;"/>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script"/></a>
 </p>
-
 ---
 
 ## 🌟 Key Wins
@@ -159,8 +151,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ### 🌮 Taco Bell — Delivery Aggregator QA *(Cognizant | 2021 – Present)*
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=FFB800&center=true&vCenter=true&width=700&lines=Senior+QA+Engineer+%7C+Automation+Architect;Selenium+%7C+Java+%7C+TestNG+%7C+AWS+%7C+BrowserStack" alt="Taco Bell role"/>
 
+
+**Role:** Senior QA Engineer    
 **Team Size:** Cross-functional QA team  
 **Technologies:** Selenium, Java, TestNG, AWS, BrowserStack, JIRA, Qmetry
 
@@ -175,8 +168,6 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ### 🧪 HCL — Test Analyst *(2020 – 2021)*
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=QA+Test+Analyst;Full-cycle+Black-box+Testing+%7C+Test+Case+Design" alt="HCL role"/>
-
 **Role:** QA Test Analyst  
 **Domain:** Full-cycle Quality Assurance  
 **Technologies:** JIRA, Manual Testing, Test Case Design
@@ -189,10 +180,9 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ### 📚 Sutherland Global Services — Tech Support Engineer *(2017 – 2019)*
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=700&lines=Tech+Support+Engineer+%7C+Quality+Analyst;Amazon+Kindle+Testing+%7C+SOP+Documentation" alt="Sutherland role"/>
 
 **Role:** Tech Support / Quality Analyst  
-**Technologies:** Manual Testing, SOP Documentation, Amazon Kindle  
+**Technologies:** Manual Testing, Amazon Kindle  
 
 **Achievements:**
 - 🧪 **Developed manual test cases** covering complex Amazon Kindle scenarios — ensuring product quality across diverse use cases
@@ -203,11 +193,10 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 ## 🏆 Achievements & Certifications
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🥇+Guinness+World+Record+Holder;🤖+Vibe+Code+Hackathon+Winner;🧠+Context+Engineering+Foundation;📜+Certified+in+Software+Testing" alt="Certifications animation"/>
 
 | | |
 |---|---|
-| 🥇 | **Guinness World Record Holder** — First-ever use of Generative AI (GitHub Copilot) in software testing at a global hackathon |
+| 🥇 | **Guinness World Record Holder** — First-ever use of Generative AI (GitHub Copilot) in software testing at a global hackathon - Vibe Coding|
 | 🤖 | **Vibe Code Hackathon Winner** — GitHub Copilot Innovation (Issued by Cognizant) |
 | 🧠 | **Context Engineering Foundation** — AI & RAG Fundamentals (Issued by Cognizant) |
 | 📜 | **Certified in Software Testing** — Manual & Automation with Selenium (Qspiders Institute) |
@@ -224,7 +213,6 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=4000&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=Explore+in-depth+case+studies+%26+automation+strategies;Real-world+QA+solutions+%26+framework+implementations" alt="Portfolio description"/>
 
 **What you'll find:**
 - 📚 Detailed case studies from Taco Bell delivery QA work
@@ -236,8 +224,6 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ---
 
 ## 🎯 What's Next?
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=1500&color=00FF88&center=true&vCenter=true&width=700&lines=Actively+seeking+SDET+roles;Deepening+expertise+in+Performance+%26+Security+Testing;Exploring+Test+Infrastructure+as+Code;Open+to+collaboration+on+QA+frameworks" alt="Next steps animation"/>
 
 I'm constantly evolving in my QA and automation engineering journey:
 
@@ -274,7 +260,6 @@ I'm constantly evolving in my QA and automation engineering journey:
 
 ## 💬 Let's Connect!
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=I'm+always+interested+in+discussing:;QA+automation+best+practices+%7C+Gen+AI+in+Testing;Test+infrastructure+architecture+%7C+Microservices+QA" alt="Connect animation"/>
 
 I'm always interested in discussing:
 - 🧪 QA automation best practices & design patterns
@@ -300,10 +285,8 @@ I'm always interested in discussing:
   <img src="https://komarev.com/ghpvc/?username=Vaishnavkuttan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=5000&pause=2000&color=FFD700&center=true&vCenter=true&width=750&lines=⚡+Quality+is+never+an+accident.+It+is+always+the+result+of+intelligent+effort.;—+John+Ruskin" alt="Inspiration quote animation"/>
 </p>
 
-<p align="center">
-  <sub>Last Updated: 2026 | Enhanced with rotating logo loop animations 🚀</sub>
+<p align="center">&#128640;
+  <sub>"Quality is not an act, it is a habit."</sub>
 </p>
