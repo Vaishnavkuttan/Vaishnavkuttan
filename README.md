@@ -87,12 +87,12 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 ## 🛠️ Tech Arsenal
 
 ### ⚡ Automation & Testing
-**Frameworks & Tools:** Selenium, Java, TestNG, Postman, Rest Assured, Playwright, Maven, GitHub Copilot
+**Frameworks & Tools:** Selenium, Java, TestNG, Postman, Rest Assured, Maven, Playwright, GitHub Copilot AI
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" width="48" height="48" alt="TestNG"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white" width="98" height="48" alt="TestNG"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
   <a href="#"><img src="https://rest-assured.io/img/logo-transparent.png" height="48" alt="Rest Assured"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/></a>
