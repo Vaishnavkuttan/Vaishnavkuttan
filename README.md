@@ -20,9 +20,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00N2M3MjZwdjkyaWJ3MzJpM2VveXh6NXB6MW1rcmpueXlhMzBheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif" alt="fun gif" />
-</p>
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00N2M3MjZwdjkyaWJ3MzJpM2VveXh6NXB6MW1rcmpueXlhMzBheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFngIYWIg2QJgQQTMf/giphy.gif" alt="fun gif" />
 
 ---
 
@@ -117,14 +115,15 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 </p>
 
 ### 🧰 Tools & Platforms
-**Test Management & Analysis:** JIRA, BrowserStack, IntelliJ IDEA, Eclipse, Qmetry
+**Test Management & Analysis:** JIRA, VS Code, BrowserStack, IntelliJ IDEA, Eclipse, Qmetry
 
 <p align="left">
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "alt="Visual Studio Code"/></a>
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/browser-stack.png" alt="browser-stack"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
-  <a href="#"><img src="https://testmanagement.qmetry.com/assets/images/QTM.svg" width="118" height="38" alt="Qmetry"/></a>
+  <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=idea"  alt="IntelliJ IDEA"/></a>
+  <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=eclipse"  alt="Eclipse"/></a>
+  <a href="#"><img width="118" height="38" src="https://testmanagement.qmetry.com/assets/images/QTM.svg"  alt="Qmetry"/></a>
 </p>
 
 ### 💻 Languages & Scripting
