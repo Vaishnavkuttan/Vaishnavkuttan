@@ -123,7 +123,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   <a href="#"><img src="https://img.icons8.com/color/48/browser-stack.png" width="48" height="48" alt="browser-stack"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=idea"  width="48" height="48"  alt="IntelliJ IDEA"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
-  <a href="#"><img wsrc="https://testmanagement.qmetry.com/assets/images/QTM.svg" idth="118" height="38" alt="Qmetry"/></a>
+  <a href="#"><img src="https://testmanagement.qmetry.com/assets/images/QTM.svg" idth="118" height="38" alt="Qmetry"/></a>
 </p>
 
 ### 💻 Languages & Scripting
