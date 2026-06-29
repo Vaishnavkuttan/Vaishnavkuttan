@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl6dTJkZnQycjhxNjZ5dzZiZnd0aWpsODJkaWJmOHNwNXZyOGpzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="fun gif" />
+</p>
+
 ---
 
 ## 🎯 Quick Navigation
