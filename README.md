@@ -118,12 +118,12 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 **Test Management & Analysis:** JIRA, VS Code, BrowserStack, IntelliJ IDEA, Eclipse, Qmetry
 
 <p align="left">
-  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></a>
-  <a href="#"><img width="48" height="48" src="https://cdn.brandfetch.io/idIkI_7uw6/w/800/h/800/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Visual Studio Code"/></a>
-  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/browser-stack.png" alt="browser-stack"/></a>
-  <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=idea"  alt="IntelliJ IDEA"/></a>
-  <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=eclipse"  alt="Eclipse"/></a>
-  <a href="#"><img width="118" height="38" src="https://testmanagement.qmetry.com/assets/images/QTM.svg"  alt="Qmetry"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/jira.png" width="48" height="48" alt="jira"/></a>
+  <a href="#"><img src="https://cdn.brandfetch.io/idIkI_7uw6/w/800/h/800/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Visual Studio Code"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/browser-stack.png" width="48" height="48" alt="browser-stack"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=idea"  width="48" height="48"  alt="IntelliJ IDEA"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
+  <a href="#"><img wsrc="https://testmanagement.qmetry.com/assets/images/QTM.svg" idth="118" height="38" alt="Qmetry"/></a>
 </p>
 
 ### 💻 Languages & Scripting
@@ -135,6 +135,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell Script"/></a>
 </p>
+
 ---
 
 ## 🌟 Key Wins
@@ -205,7 +206,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 | 🤖 | **Vibe Code Hackathon Winner** — GitHub Copilot Innovation (Issued by Cognizant) |
 | 🧠 | **Context Engineering Foundation** — AI & RAG Fundamentals (Issued by Cognizant) |
 | 📜 | **Certified in Software Testing** — Manual & Automation with Selenium (Qspiders Institute) |
-| 🤖 | **GitHub Copilot Advanced Program** — Certified for QEA (Quality Engineering & Assurance) |
+| 🎖️ | **GitHub Copilot Advanced Program** — Certified for QEA (Quality Engineering & Assurance) |
 | 🎓 | **6+ Years of Continuous Learning** — Active participation in workshops, certifications, and industry conferences |
 
 ---
@@ -290,8 +291,6 @@ I'm always interested in discussing:
   <img src="https://komarev.com/ghpvc/?username=Vaishnavkuttan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-</p>
-
 <p align="center">&#128640;
-  <sub>"Quality is not an act, it is a habit."</sub>
+  <sub>"Quality is not an act, it is a habit." — Aristotle</sub>
 </p>
