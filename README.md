@@ -119,7 +119,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 
 <p align="left">
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></a>
-  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "alt="Visual Studio Code"/></a>
+  <a href="#"><img width="48" height="48" src="https://cdn.brandfetch.io/idIkI_7uw6/w/800/h/800/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Visual Studio Code"/></a>
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/browser-stack.png" alt="browser-stack"/></a>
   <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=idea"  alt="IntelliJ IDEA"/></a>
   <a href="#"><img width="48" height="48" src="https://skillicons.dev/icons?i=eclipse"  alt="Eclipse"/></a>
