@@ -82,6 +82,17 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
       </a>
     </td>
   </tr>
+      <td align="center" width="200">
+      <a href="https://www.credly.com/badges/2e4dd007-4a6b-493e-bbd6-7d8f8618e511" target="_blank">
+        <img src="https://images.credly.com/images/384e1386-110e-439d-8014-18fe42bb5f18/linkedin_thumb_blob" width="130" alt="Build with Gemini"/>
+        <br/>
+        <b>Build with Gemini</b>
+        <br/>
+        <sub>AI Platform Governance & Security</sub>
+        <br/>
+        <sub>🏢 Issued by Google Cloud</sub>
+      </a>
+    </td>
 </table>
 
 ---
@@ -123,7 +134,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
   <a href="#"><img src="https://img.icons8.com/color/48/browser-stack.png" width="48" height="48" alt="browser-stack"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=idea"  width="48" height="48"  alt="IntelliJ IDEA"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse"/></a>
-  <a href="#"><img src="https://testmanagement.qmetry.com/assets/images/QTM.svg" idth="118" height="38" alt="Qmetry"/></a>
+  <a href="#"><img src="https://testmanagement.qmetry.com/assets/images/QTM.svg" width="118" height="38" alt="Qmetry"/></a>
 </p>
 
 ### 💻 Languages & Scripting
@@ -207,6 +218,7 @@ I'm a **Senior QA / Automation Engineer** with **6+ years** of experience turnin
 | 🧠 | **Context Engineering Foundation** — AI & RAG Fundamentals (Issued by Cognizant) |
 | 📜 | **Certified in Software Testing** — Manual & Automation with Selenium (Qspiders Institute) |
 | 🎖️ | **GitHub Copilot Advanced Program** — Certified for QEA (Quality Engineering & Assurance) |
+| ☁️ | **Build with Gemini** — AI Platform Governance & Security (Issued by Google Cloud) |
 | 🎓 | **6+ Years of Continuous Learning** — Active participation in workshops, certifications, and industry conferences |
 
 ---
